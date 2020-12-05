@@ -1,0 +1,6 @@
+rxdisplay7	KEYWORD1
+pinSegment	KEYWORD2
+setNum	KEYWORD2
+setOff	KEYWORD2
+setPoint	KEYWORD2
+isAnode	KEYWORD2
